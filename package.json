@@ -1,0 +1,26 @@
+{
+  "name": "ajstesta",
+  "version": "1.0.0",
+  "description": "task 1 TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/OVP2023/ajstesta"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "OVP",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.6",
+    "@babel/preset-env": "^7.22.6",
+    "babel-jest": "^29.6.0",
+    "core-js": "^3.31.0",
+    "jest": "^29.6.0"
+  }
+}
